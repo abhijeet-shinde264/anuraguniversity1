@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Anurag University</string>
+    <string name="event">Events</string>
+    <string name="placment">Placment Blog</string>
+    <string name="intership">Internship Blog</string>
+    <string name="map">Map</string>
+    <string name="achivements">Achivements</string>
+    <string name="about">About</string>
+    <string name="developer">Developers</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="logout">Logout</string>
+</resources>
